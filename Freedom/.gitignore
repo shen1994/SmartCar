@@ -1,0 +1,63 @@
+# Object files
+*.o
+*.ko
+*.o.*
+*.uvgui.*
+*.bat
+*.__i
+*.dbgdt
+*.tra
+*.iex
+*.pbd
+*.browse
+*.tmp
+*.db
+*.__ia
+*.dni
+*.wsdt
+*.pbi
+*.bin
+*.cout
+*.crf
+*.d
+*.sct
+*.htm
+*.map
+*.axf
+*.lnp
+*.txt
+*.ini
+*.lst
+output
+Doc
+settings
+Debug
+SI
+Tools
+Tool
+Release
+lib_html
+d4d
+FAT
+FAT1
+
+# Libraries
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.hex
+
+# Project files
+*.plg
+*.Yandld
+*.dep
+*.bak
