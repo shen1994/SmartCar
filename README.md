@@ -19,3 +19,8 @@
 (1) keil5的安装  
     私人下载地址: 链接:<https://pan.baidu.com/s/1oiS5wEAspNueY2euFvtg6g> 密码: cdep  
     提示: 首先安装工具包,其次安装keil软件，最后以管理员方式打开keil用注册软件完成破解  
+
+# 2. 实现方式  
+* 使用FreescaleGetImg捕获图像并撰写图像处理算法  
+* 将FreescaleGetImg中image.c文件拷贝到freedom文件中  
+* 将freedom工程烧录到硬件中，智能车可完成自主巡航  
